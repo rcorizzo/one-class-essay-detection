@@ -17,7 +17,7 @@ import os
 
 folds = 5
 
-feature_settings = ["text", "repetitiveness", "semantic", "readability", "pos", "custom", "all"]
+feature_settings = ["text", "repetitiveness", "semantic", "readability", "pos"]
 feat_attr = "essay"
 class_attr = "class"
 outdir = "results/one_class_models/" + str(folds) + "_CV_stratified_true/"
@@ -46,10 +46,8 @@ feat_dict = {   # Start and end positions for each feature subset
     "text": [0, 5],
     "repetitiveness": [6, 10],
     "semantic": [11, 15],
-    "custom": [0, 15],
     "readability": [16, 28],
-    "pos": [29, 48],
-    "all": [0, 48]
+    "pos": [29, 48]
 }
 
 # k-Fold CV using linguistic features
