@@ -13,6 +13,6 @@ VOLUME = {13},<br/>
 YEAR = {2023},<br/>
 NUMBER = {13},<br/>
 ARTICLE-NUMBER = {7901},<br/>
-URL = {https://www.mdpi.com/2076-3417/13/13/7901},<br/>
+URL = {[https://www.mdpi.com/2076-3417/13/13/7901](https://www.mdpi.com/2076-3417/13/13/7901)},<br/>
 ISSN = {2076-3417}<br/>
 }
