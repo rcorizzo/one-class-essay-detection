@@ -1,7 +1,7 @@
 # one-class-essay-detection
 
 # Repository of paper:
-Corizzo R, Leal-Arenas S. One-Class Learning for AI-Generated Essay Detection. Applied Sciences. 2023; 13(13):7901. [https://doi.org/10.3390/app13137901](https://doi.org/10.3390/app13137901)
+Corizzo R, Leal-Arenas S. One-Class Learning for AI-Generated Essay Detection. <em>Applied Sciences</em>. 2023; 13(13):7901. [https://doi.org/10.3390/app13137901](https://doi.org/10.3390/app13137901)
 
 ------  
 ### Cite:
